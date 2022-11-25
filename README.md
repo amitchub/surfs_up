@@ -9,14 +9,12 @@ Listed below are statistics in bullet-point format for both June and December.  
 ### June
 ![JuneTemps](https://github.com/amitchub/surfs_up/blob/main/TempsJune.PNG)
 
-<img src="./TempsJune.png" width=400>
-
 - The average temperature recorded for the data set was 75 degrees F.
 - The lowest temperature recorded for the data set was 64 degrees F.
 - The highest temperature recorded for the data set was 85 degrees F.
 
 ### December
-<img src="./TempsDecember.png" width=400>
+![DecemberTemps](https://github.com/amitchub/surfs_up/blob/main/TempsDecember.PNG)
 
 - The average temperature recorded for the data set was 71 degrees F.
 - The lowest temperature recorded for the data set was 56 degrees F.
