@@ -7,6 +7,8 @@ This analysis was commissioned to gather temperature data for June and December.
 Listed below are statistics in bullet-point format for both June and December.  Temperature values are listed in Fahrenheit.
 
 ### June
+![JuneTemps](https://github.com/amitchub/surfs_up/blob/main/TempsJune.PNG)
+
 <img src="./TempsJune.png" width=400>
 
 - The average temperature recorded for the data set was 75 degrees F.
